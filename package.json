@@ -2,7 +2,7 @@
   "name": "sass",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "watch": "node-sass -o CSS SCSS/main.scss -w",
     "start": "parcel index.html",
